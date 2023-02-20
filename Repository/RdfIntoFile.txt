@@ -1,0 +1,52 @@
+<rdf:RDF
+    xmlns:Hedc="https://workflow.hedc.co.ir/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:WorkFlow="https://workflow.hedc.co.ir/workflow#"
+    xmlns:j.0="https://workflow.hedc.co.ir/workflow/">
+  <rdf:Description rdf:about="https://workflow.hedc.co.ir/workflow#Installations">
+    <j.0:Read xml:lang="fa">شماره درخواست انشعاب</j.0:Read>
+    <j.0:Read xml:lang="en">mobile</j.0:Read>
+    <j.0:Read xml:lang="en">phone</j.0:Read>
+    <j.0:Insert xml:lang="en">meter</j.0:Insert>
+    <j.0:Insert>Insert</j.0:Insert>
+    <j.0:Read xml:lang="en">branch Request number</j.0:Read>
+    <j.0:Read>Read</j.0:Read>
+    <WorkFlow:Installations xml:lang="en">Setup installations</WorkFlow:Installations>
+    <j.0:Read xml:lang="fa">موبایل</j.0:Read>
+    <j.0:Insert xml:lang="fa">کنتور</j.0:Insert>
+    <WorkFlow:Installations xml:lang="fa">نصب انشعاب</WorkFlow:Installations>
+    <j.0:Read xml:lang="fa">تلفن</j.0:Read>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://workflow.hedc.co.ir/workflow#Branch">
+    <j.0:Insert xml:lang="fa">موبایل</j.0:Insert>
+    <j.0:Insert xml:lang="fa">کد ملی</j.0:Insert>
+    <j.0:Insert xml:lang="fa">شماره درخواست انشعاب</j.0:Insert>
+    <j.0:Insert xml:lang="en">Phone</j.0:Insert>
+    <j.0:Insert xml:lang="fa">نام</j.0:Insert>
+    <j.0:Insert xml:lang="fa">نام خانوادگی</j.0:Insert>
+    <j.0:Insert xml:lang="en">Mobile</j.0:Insert>
+    <j.0:Insert xml:lang="fa">تلفن</j.0:Insert>
+    <j.0:Insert xml:lang="en">branch Request number</j.0:Insert>
+    <j.0:Insert>Insert</j.0:Insert>
+    <j.0:Insert xml:lang="en">Address</j.0:Insert>
+    <WorkFlow:Branch xml:lang="fa">فروش انشعاب برق</WorkFlow:Branch>
+    <j.0:Insert xml:lang="en">Family Name</j.0:Insert>
+    <WorkFlow:Branch xml:lang="en">Sale of electricity branch</WorkFlow:Branch>
+    <j.0:Insert xml:lang="en">Name</j.0:Insert>
+    <j.0:Insert xml:lang="en">national id</j.0:Insert>
+    <j.0:Insert xml:lang="fa">آدرس</j.0:Insert>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://workflow.hedc.co.ir/workflow#Buy_Meter">
+    <j.0:Read xml:lang="en">branch Request number</j.0:Read>
+    <WorkFlow:Buy_Meter xml:lang="fa">خرید مستقیم کنتور</WorkFlow:Buy_Meter>
+    <j.0:Read xml:lang="en">national id</j.0:Read>
+    <j.0:Read xml:lang="fa">موبایل</j.0:Read>
+    <j.0:Read xml:lang="fa">شماره درخواست انشعاب</j.0:Read>
+    <j.0:Read>Read</j.0:Read>
+    <WorkFlow:Buy_Meter xml:lang="en">buy meter direct</WorkFlow:Buy_Meter>
+    <j.0:Read xml:lang="en">phone</j.0:Read>
+    <j.0:Read xml:lang="fa">کد ملی</j.0:Read>
+    <j.0:Read xml:lang="fa">تلفن</j.0:Read>
+    <j.0:Read xml:lang="en">mobile</j.0:Read>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,25 @@
+﻿subject,name,fa_value,en_value,litral
+https://workflow.hedc.co.ir/organization,Organization,شرکت توزیع نیروی برق استان هرمزگان,hedc,FALSE
+https://workflow.hedc.co.ir/organization/vices,Vices,معاونت ها,vices,FALSE
+https://workflow.hedc.co.ir/organization/vices:customer,Vices,معاونت مشترکین,Customer Vices,TRUE
+https://workflow.hedc.co.ir/organization/vices/units,Units,واحد های سازمانی,units,FALSE
+https://workflow.hedc.co.ir/organization/vices/units/offices,Offices,دفاتر سازمانی,offices,FALSE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices:msc,MCS,دفتر نظارت بر خدمات مشترکین,Monitor customer service,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow:Branch,Branch,فروش انشعاب,Sale of electricity branch,FALSE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow/Branch:Installations,Installations,نصب انشعاب,Setup installations,FALSE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow:Branch,Insert,کد ملی,national id,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow/Branch:Installations,Insert,کنتور,meter,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow:Branch,Insert,نام,Name,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow:Branch,Insert,نام خانوادگی,Family Name,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow:Branch,Insert,تلفن,Phone,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow:Branch,Insert,موبایل,Mobile,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow:Branch,Insert,آدرس,Address,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow/Branch:Installations,Read,موبایل,mobile,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow/Branch:Installations,Read,تلفن,phone,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow:Branch,Insert,شماره درخواست,branch number,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow/Branch:Installations,Read,شماره درخواست,branch number,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow/Branch:Buy_Meter,Buy Meter,خرید مستقیم کنتور,buy meter direct,FALSE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow/Branch:Buy_Meter,Read,شماره درخواست,branch number,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow/Branch:Buy_Meter,Read,موبایل,mobile,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow/Branch:Buy_Meter,Read,تلفن,phone,TRUE
+https://workflow.hedc.co.ir/organization/vices/customer/units/offices/msc/workflow/Branch:Buy_Meter,Read,کد ملی,national id,TRUE

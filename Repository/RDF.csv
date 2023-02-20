@@ -1,0 +1,19 @@
+﻿subject,activity,fa_value,en_value
+https://workflow.hedc.co.ir/workflow#Branch,,فروش انشعاب برق,Sale of electricity branch
+https://workflow.hedc.co.ir/workflow#Installations,,نصب انشعاب,Setup installations
+https://workflow.hedc.co.ir/workflow#Branch,Insert,کد ملی,national id
+https://workflow.hedc.co.ir/workflow#Installations,Insert,کنتور,meter
+https://workflow.hedc.co.ir/workflow#Branch,Insert,نام,Name
+https://workflow.hedc.co.ir/workflow#Branch,Insert,نام خانوادگی,Family Name
+https://workflow.hedc.co.ir/workflow#Branch,Insert,تلفن,Phone
+https://workflow.hedc.co.ir/workflow#Branch,Insert,موبایل,Mobile
+https://workflow.hedc.co.ir/workflow#Branch,Insert,آدرس,Address
+https://workflow.hedc.co.ir/workflow#Installations,Read,موبایل,mobile
+https://workflow.hedc.co.ir/workflow#Installations,Read,تلفن,phone
+https://workflow.hedc.co.ir/workflow#Branch,Insert,شماره درخواست انشعاب,branch Request number
+https://workflow.hedc.co.ir/workflow#Installations,Read,شماره درخواست انشعاب,branch Request number
+https://workflow.hedc.co.ir/workflow#Buy_Meter,,خرید مستقیم کنتور,buy meter direct
+https://workflow.hedc.co.ir/workflow#Buy_Meter,Read,شماره درخواست انشعاب,branch Request number
+https://workflow.hedc.co.ir/workflow#Buy_Meter,Read,موبایل,mobile
+https://workflow.hedc.co.ir/workflow#Buy_Meter,Read,تلفن,phone
+https://workflow.hedc.co.ir/workflow#Buy_Meter,Read,کد ملی,national id

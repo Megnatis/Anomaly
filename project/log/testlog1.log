@@ -1,0 +1,32 @@
+2023-01-30 21:18:44,568 [main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator tokenize
+2023-01-30 21:18:44,586 [main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator pos
+2023-01-30 21:18:45,373 [main] INFO edu.stanford.nlp.tagger.maxent.MaxentTagger - Loading POS tagger from edu/stanford/nlp/models/pos-tagger/english-left3words-distsim.tagger ... done [0.8 sec].
+2023-01-30 21:18:45,375 [main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator lemma
+2023-01-30 21:18:45,376 [main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator ner
+2023-01-30 21:18:46,591 [main] INFO edu.stanford.nlp.ie.AbstractSequenceClassifier - Loading classifier from edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [1.2 sec].
+2023-01-30 21:18:47,113 [main] INFO edu.stanford.nlp.ie.AbstractSequenceClassifier - Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [0.5 sec].
+2023-01-30 21:18:47,796 [main] INFO edu.stanford.nlp.ie.AbstractSequenceClassifier - Loading classifier from edu/stanford/nlp/models/ner/english.conll.4class.distsim.crf.ser.gz ... done [0.7 sec].
+2023-01-30 21:18:47,800 [main] INFO edu.stanford.nlp.time.JollyDayHolidays - Initializing JollyDayHoliday for SUTime from classpath edu/stanford/nlp/models/sutime/jollyday/Holidays_sutime.xml as sutime.binder.1.
+2023-01-30 21:18:48,090 [main] INFO edu.stanford.nlp.time.TimeExpressionExtractorImpl - Using following SUTime rules: edu/stanford/nlp/models/sutime/defs.sutime.txt,edu/stanford/nlp/models/sutime/english.sutime.txt,edu/stanford/nlp/models/sutime/english.holidays.sutime.txt
+2023-01-30 21:18:50,758 [main] INFO edu.stanford.nlp.pipeline.TokensRegexNERAnnotator - ner.fine.regexner: Read 580705 unique entries out of 581864 from edu/stanford/nlp/models/kbp/english/gazetteers/regexner_caseless.tab, 0 TokensRegex patterns.
+2023-01-30 21:18:50,773 [main] INFO edu.stanford.nlp.pipeline.TokensRegexNERAnnotator - ner.fine.regexner: Read 4867 unique entries out of 4867 from edu/stanford/nlp/models/kbp/english/gazetteers/regexner_cased.tab, 0 TokensRegex patterns.
+2023-01-30 21:18:50,774 [main] INFO edu.stanford.nlp.pipeline.TokensRegexNERAnnotator - ner.fine.regexner: Read 585572 unique entries from 2 files
+2023-01-30 21:18:53,439 [main] INFO edu.stanford.nlp.pipeline.NERCombinerAnnotator - numeric classifiers: true; SUTime: true [no docDate]; fine grained: true
+2023-01-30 21:18:53,442 [main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator parse
+2023-01-30 21:18:54,216 [main] INFO edu.stanford.nlp.parser.common.ParserGrammar - Loading parser from serialized file edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz ... done [0.8 sec].
+2023-01-30 21:19:44,534 [main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator tokenize
+2023-01-30 21:19:44,552 [main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator pos
+2023-01-30 21:19:45,314 [main] INFO edu.stanford.nlp.tagger.maxent.MaxentTagger - Loading POS tagger from edu/stanford/nlp/models/pos-tagger/english-left3words-distsim.tagger ... done [0.7 sec].
+2023-01-30 21:19:45,315 [main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator lemma
+2023-01-30 21:19:45,317 [main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator ner
+2023-01-30 21:19:46,558 [main] INFO edu.stanford.nlp.ie.AbstractSequenceClassifier - Loading classifier from edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [1.2 sec].
+2023-01-30 21:19:47,057 [main] INFO edu.stanford.nlp.ie.AbstractSequenceClassifier - Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [0.5 sec].
+2023-01-30 21:19:47,630 [main] INFO edu.stanford.nlp.ie.AbstractSequenceClassifier - Loading classifier from edu/stanford/nlp/models/ner/english.conll.4class.distsim.crf.ser.gz ... done [0.6 sec].
+2023-01-30 21:19:47,633 [main] INFO edu.stanford.nlp.time.JollyDayHolidays - Initializing JollyDayHoliday for SUTime from classpath edu/stanford/nlp/models/sutime/jollyday/Holidays_sutime.xml as sutime.binder.1.
+2023-01-30 21:19:47,898 [main] INFO edu.stanford.nlp.time.TimeExpressionExtractorImpl - Using following SUTime rules: edu/stanford/nlp/models/sutime/defs.sutime.txt,edu/stanford/nlp/models/sutime/english.sutime.txt,edu/stanford/nlp/models/sutime/english.holidays.sutime.txt
+2023-01-30 21:19:50,340 [main] INFO edu.stanford.nlp.pipeline.TokensRegexNERAnnotator - ner.fine.regexner: Read 580705 unique entries out of 581864 from edu/stanford/nlp/models/kbp/english/gazetteers/regexner_caseless.tab, 0 TokensRegex patterns.
+2023-01-30 21:19:50,439 [main] INFO edu.stanford.nlp.pipeline.TokensRegexNERAnnotator - ner.fine.regexner: Read 4867 unique entries out of 4867 from edu/stanford/nlp/models/kbp/english/gazetteers/regexner_cased.tab, 0 TokensRegex patterns.
+2023-01-30 21:19:50,439 [main] INFO edu.stanford.nlp.pipeline.TokensRegexNERAnnotator - ner.fine.regexner: Read 585572 unique entries from 2 files
+2023-01-30 21:19:52,815 [main] INFO edu.stanford.nlp.pipeline.NERCombinerAnnotator - numeric classifiers: true; SUTime: true [no docDate]; fine grained: true
+2023-01-30 21:19:52,817 [main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator parse
+2023-01-30 21:19:53,373 [main] INFO edu.stanford.nlp.parser.common.ParserGrammar - Loading parser from serialized file edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz ... done [0.5 sec].
